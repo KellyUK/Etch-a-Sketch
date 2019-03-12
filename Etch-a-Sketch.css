@@ -1,0 +1,30 @@
+
+
+body{
+    background-color:rgb(190, 72, 42);
+}
+
+#container{
+    width: 960px;
+    height: 960px;
+    border-style:0px;
+    margin:0px;
+    padding:0px;
+    background-color: #f9c5a7;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#content{
+    
+    float: right;
+}
+
+button{
+    float: left;
+    padding:20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
